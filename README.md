@@ -1,4 +1,4 @@
-## issac gym环境
+## isaac gym环境
 Lite3_issac
 
 ## ROS Gazebo环境
